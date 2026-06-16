@@ -4,7 +4,7 @@ This repository contains multiple Playwright test files. The main assignment fil
 
 | Assignment | Test File | Purpose |
 |---|---|---|
-| Assignment 1 | `tests/Assignment.spec.js` | Creates a new event, books one ticket, validates booking confirmation, and verifies that seat count is reduced by 1 |
+| Assignment 1 | `tests/Assignment1.spec.js` | Creates a new event, books one ticket, validates booking confirmation, and verifies that seat count is reduced by 1 |
 | Assignment 2 | `tests/Assignment2.spec.js` | Validates refund eligibility for single-ticket and group-ticket bookings |
 
 
